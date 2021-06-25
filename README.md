@@ -7,6 +7,9 @@ https://www.codewars.com, https://www.codingame.com, https://onlinejudge.org and
 There is an example / template in `src/codewars/easy_puzzles/pXXX_YYY.cpp`. All the TODO's there should indicate the
 places where you should do changes if you copy this template file for your own puzzles.
 
+## Changes / Improvements
+Feel free to fork, create issues or pull-requests if you have feedbacks or ideas to improve this
+testing framework.
 
 ---
 ## Building / Running / Debugging in CLion
