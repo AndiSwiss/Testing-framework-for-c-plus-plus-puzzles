@@ -1,0 +1,11 @@
+//
+// Created by AndiSwiss on 25.06.21.
+//
+
+#ifndef TESTING_FRAMEWORK_CPLUSPLUS
+#define TESTING_FRAMEWORK_CPLUSPLUS
+
+#endif //TESTING_FRAMEWORK_CPLUSPLUS
+
+
+void pXXX_YYY();
